@@ -14,14 +14,14 @@ header {
 }
 
 h1 {
-    color: #4675a9;
+    color: #484d55;
     text-align: center;
     font-size: 3rem;
     line-height: 1.1;
 }
 
 p {
-    margin-block: 25px;
+
 }
 
 section {
@@ -42,11 +42,19 @@ h3 {
 }
 
 footer {
-    background-color: #22466c;
-    color: #fff;
+
     text-align: center;
-    padding-block: 10px;
     font-size: 0.875rem;
-    border: 5px solid #6e84cf;
-    border-radius: 5px;
+
+}
+
+.accent {
+    color: #087a98;
+}
+
+.tealbg {
+    background-color: #087a98;
+    color: #fff;
+    border: 5px solid #0b4a5a;
+    padding: 10px;
 }
