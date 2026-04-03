@@ -30,6 +30,18 @@ section {
 
 a {
     color: #cb731b;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #087a98;
+}
+a:hover,
+a:focus-visible {
+    color: #cb731b;
+}
+a:active {
+    color: black;
 }
 
 h2 {
@@ -48,11 +60,11 @@ footer {
 
 }
 
-.accent {
+.teal-text {
     color: #087a98;
 }
 
-.tealbg {
+.teal-bg {
     background-color: #087a98;
     color: #fff;
     border: 5px solid #0b4a5a;
