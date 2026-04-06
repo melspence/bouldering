@@ -31,7 +31,7 @@ section {
 .wrapper {
     max-inline-size: 1000px;
     margin-inline: auto;
-    border: 5px dashed red;
+    /*border: 5px dashed red;*/
 }
 
 a {
@@ -48,6 +48,9 @@ a:focus-visible {
 }
 a:active {
     color: black;
+}
+img {
+    max-inline-size: 100%;
 }
 
 h2 {
