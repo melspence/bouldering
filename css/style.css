@@ -50,6 +50,7 @@ a:active {
     color: black;
 }
 img {
+    display: block;
     max-inline-size: 100%;
 }
 
