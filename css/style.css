@@ -28,6 +28,12 @@ section {
     margin-block: 50px;
 }
 
+.wrapper {
+    max-inline-size: 1000px;
+    margin-inline: auto;
+    border: 5px dashed red;
+}
+
 a {
     color: #cb731b;
     text-decoration: none;
